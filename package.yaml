@@ -17,7 +17,7 @@ source-dirs:
 
 executables:
   my-executable:
-    main: src/Main.hs
+    main: Main.hs
 
 tests:
   spec:
